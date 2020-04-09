@@ -1,5 +1,5 @@
 package yo
 
 func Yo() string {
- return "v1 yo!"
+ return "v2 yo!"
 }
